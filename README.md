@@ -3,7 +3,7 @@
 
 # My Awesome Project
 
-This project is a simple Android application developed by [Your Name] that showcases some cool features and functionalities. The app allows users to transform their input text into a unique and creative representation using emoji characters. Additionally, it provides a convenient way to copy the transformed text to the clipboard.
+This project is a simple Android application developed by Meru that showcases some cool features and functionalities. The app allows users to transform their input text into a unique and creative representation using emoji characters. Additionally, it provides a convenient way to copy the transformed text to the clipboard.
 
 ## Features
 
